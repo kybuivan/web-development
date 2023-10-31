@@ -1,0 +1,9 @@
+{
+  "name": "html-css-examples",
+  "version": "0.1.0",
+  "description": "html css examples",
+  "main": "index.js",
+  "author": "Ky Bui Van <ky.buivan.dev@gmail.com>",
+  "license": "Apache",
+  "private": null
+}
